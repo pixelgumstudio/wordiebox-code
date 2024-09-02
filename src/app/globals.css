@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+.capitalize-first-letter::first-letter {
+  text-transform: uppercase;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* This styles the default checkbox */
+input[type="checkbox"] {
+  appearance: none; /* Removes default checkbox styling */
+  width: 20px;
+  height: 20px;
+  border-radius: 4px; /* Makes it circular */
+  border: 1px solid #BFBFBF; /* Border to ensure the checkbox is visible */
+  position: relative; /* Allows pseudo-elements to position relative to the checkbox */
+  cursor: pointer; /* Changes cursor to pointer when hovering */
+}
+
+/* This styles the checked state */
+input[type="checkbox"]:checked {
+  background-color: #E03C00; 
+  border: 1px solid #E03C00; /* Background color when checked */
+}
+
+/* Optional: adding a checkmark when checked */
+input[type="checkbox"]:checked::after {
+  content: '✔'; /* Checkmark character */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Center the checkmark */
+    font-size: 14px; /* Adjust the size of the checkmark */
+    color: white; /* Color of the checkmark */
+}
+

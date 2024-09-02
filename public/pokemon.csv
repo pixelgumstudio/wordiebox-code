@@ -1,0 +1,1215 @@
+name,type,gender,ability,hidden_ability
+Bulbasaur,Grass,No gender,Overgrow,Chlorophyll
+Ivysaur,Grass,No gender,Overgrow,Chlorophyll
+Venusaur,Grass,No gender,Overgrow,Chlorophyll
+Venusaur (Mega),Grass,No gender,Thick Fat,
+Charmander,Fire,No gender,Blaze,Solar Power
+Charmeleon,Fire,No gender,Blaze,Solar Power
+Charizard,Fire,No gender,Blaze,Solar Power
+Charizard (Mega X),Fire,No gender,Tough Claws,
+Charizard (Mega Y),Fire,No gender,Drought,
+Squirtle,Water,No gender,Torrent,Rain Dish
+Wartortle,Water,No gender,Torrent,Rain Dish
+Blastoise,Water,No gender,Torrent,Rain Dish
+Blastoise (Mega),Water,No gender,Mega Launcher,
+Caterpie,Bug,No gender,Shield Dust,Run Away
+Metapod,Bug,No gender,Shed Skin,
+Butterfree,Bug,No gender,Compoundeyes,Tinted Lens
+Weedle,Bug,No gender,Shield Dust,Run Away
+Kakuna,Bug,No gender,Shed Skin,
+Beedrill,Bug,No gender,Swarm,Sniper
+Beedrill (Mega),Bug,No gender,Adaptability,
+Pidgey,Normal,No gender,Keen Eye,Big Pecks
+Pidgeotto,Normal,No gender,Keen Eye,Big Pecks
+Pidgeot,Normal,No gender,Keen Eye,Big Pecks
+Pidgeot (Mega),Normal,No gender,No Guard,
+Rattata,Normal,No gender,Run Away,Hustle
+Rattata (Alolan),Dark,No gender,Gluttony,Thick Fat
+Raticate,Normal,No gender,Run Away,Hustle
+Raticate (Alolan),Dark,No gender,Gluttony,Thick Fat
+Spearow,Normal,No gender,Keen Eye,Sniper
+Fearow,Normal,No gender,Keen Eye,Sniper
+Ekans,Poison,No gender,Intimidate,Unnerve
+Arbok,Poison,No gender,Intimidate,Unnerve
+Pikachu,Electric,No gender,Static,Lightningrod
+Raichu,Electric,No gender,Static,Lightningrod
+Raichu (Alolan),Electric,No gender,Surge Surfer,
+Sandshrew,Ground,No gender,Sand Veil,Sand Rush
+Sandshrew (Alolan),Ice,No gender,Snow Cloak,Slush Rush
+Sandslash,Ground,No gender,Sand Veil,Sand Rush
+Sandslash (Alolan),Ice,No gender,Snow Cloak,Slush Rush
+Nidoran (Female),Poison,No gender,Poison Point,Hustle
+Nidorina,Poison,No gender,Poison Point,Hustle
+Nidoqueen,Poison,No gender,Poison Point,Sheer Force
+Nidoran (Male),Poison,No gender,Poison Point,Hustle
+Nidorino,Poison,No gender,Poison Point,Hustle
+Nidoking,Poison,No gender,Poison Point,Sheer Force
+Clefairy,Fairy,No gender,Cute Charm,Friend Guard
+Clefable,Fairy,No gender,Cute Charm,Unaware
+Vulpix,Fire,No gender,Flash Fire,Drought
+Vulpix (Alolan),Ice,No gender,Snow Cloak,Snow Warning
+Ninetales,Fire,No gender,Flash Fire,Drought
+Ninetales (Alolan),Ice,No gender,Snow Cloak,Snow Warning
+Jigglypuff,Normal,No gender,Cute Charm,Friend Guard
+Wigglytuff,Normal,No gender,Cute Charm,Frisk
+Zubat,Poison,No gender,Inner Focus,Infiltrator
+Golbat,Poison,No gender,Inner Focus,Infiltrator
+Oddish,Grass,No gender,Chlorophyll,Run Away
+Gloom,Grass,No gender,Chlorophyll,Stench
+Vileplume,Grass,No gender,Chlorophyll,Effect Spore
+Paras,Bug,No gender,Effect Spore,Damp
+Parasect,Bug,No gender,Effect Spore,Damp
+Venonat,Bug,No gender,Compoundeyes,Run Away
+Venomoth,Bug,No gender,Shield Dust,Wonder Skin
+Diglett,Ground,No gender,Sand Veil,Sand Force
+Diglett (Alolan),Ground,No gender,Sand Veil,Sand Force
+Dugtrio,Ground,No gender,Sand Veil,Sand Force
+Dugtrio (Alolan),Ground,No gender,Sand Veil,Sand Force
+Meowth,Normal,No gender,Pickup,Unnerve
+Meowth (Alolan),Dark,No gender,Pickup,Rattled
+Meowth (Galarian),Steel,No gender,Pickup,Unnerve
+Persian,Normal,No gender,Limber,Unnerve
+Persian (Alolan),Dark,No gender,Fur Coat,Rattled
+Psyduck,Water,No gender,Damp,Swift Swim
+Golduck,Water,No gender,Damp,Swift Swim
+Mankey,Fighting,No gender,Vital Spirit,Defiant
+Primeape,Fighting,No gender,Vital Spirit,Defiant
+Growlithe,Fire,No gender,Intimidate,Justified
+Growlithe (Hisuian),Fire,No gender,Intimidate,Rock Head
+Arcanine,Fire,No gender,Intimidate,Justified
+Arcanine (Hisuian),Fire,No gender,Intimidate,Rock Head
+Poliwag,Water,No gender,Water Absorb,Swift Swim
+Poliwhirl,Water,No gender,Water Absorb,Swift Swim
+Poliwrath,Water,No gender,Water Absorb,Swift Swim
+Abra,Psychic,No gender,Synchronize,Magic Guard
+Kadabra,Psychic,No gender,Synchronize,Magic Guard
+Alakazam,Psychic,No gender,Synchronize,Magic Guard
+Alakazam (Mega),Psychic,No gender,Trace,
+Machop,Fighting,No gender,Guts,Steadfast
+Machoke,Fighting,No gender,Guts,Steadfast
+Machamp,Fighting,No gender,Guts,Steadfast
+Bellsprout,Grass,No gender,Chlorophyll,Gluttony
+Weepinbell,Grass,No gender,Chlorophyll,Gluttony
+Victreebel,Grass,No gender,Chlorophyll,Gluttony
+Tentacool,Water,No gender,Clear Body,Rain Dish
+Tentacruel,Water,No gender,Clear Body,Rain Dish
+Geodude,Rock,No gender,Rock Head,Sand Veil
+Geodude (Alolan),Rock,No gender,Magnet Pull,Galvanize
+Graveler,Rock,No gender,Rock Head,Sand Veil
+Graveler (Alolan),Rock,No gender,Magnet Pull,Galvanize
+Golem,Rock,No gender,Rock Head,Sand Veil
+Golem (Alolan),Rock,No gender,Magnet Pull,Galvanize
+Ponyta,Fire,No gender,Run Away,Flame Body
+Ponyta (Galarian),Psychic,No gender,Run Away,Anticipation
+Rapidash,Fire,No gender,Run Away,Flame Body
+Rapidash (Galarian),Psychic,No gender,Run Away,Anticipation
+Slowpoke,Water,No gender,Oblivious,Regenerator
+Slowpoke (Galarian),Psychic,No gender,Gluttony,Regenerator
+Slowbro,Water,No gender,Oblivious,Regenerator
+Slowbro (Mega),Water,No gender,Shell Armor,
+Slowbro (Galarian),Poison,No gender,Quick Draw,Regenerator
+Magnemite,Electric,No gender,Magnet Pull,Analytic
+Magneton,Electric,No gender,Magnet Pull,Analytic
+Farfetch'd,Normal,No gender,Keen Eye,Defiant
+Farfetch'd (Galarian),Fighting,No gender,Steadfast,Scrappy
+Doduo,Normal,No gender,Run Away,Tangled Feet
+Dodrio,Normal,No gender,Run Away,Tangled Feet
+Seel,Water,No gender,Thick Fat,Ice Body
+Dewgong,Water,No gender,Thick Fat,Ice Body
+Grimer,Poison,No gender,Stench,Poison Touch
+Grimer (Alolan),Poison,No gender,Poison Touch,Power of Alchemy
+Muk,Poison,No gender,Stench,Poison Touch
+Muk (Alolan),Poison,No gender,Poison Touch,Power of Alchemy
+Shellder,Water,No gender,Shell Armor,Overcoat
+Cloyster,Water,No gender,Shell Armor,Overcoat
+Gastly,Ghost,No gender,Levitate,
+Haunter,Ghost,No gender,Levitate,
+Gengar,Ghost,No gender,Cursed Body,
+Gengar (Mega),Ghost,No gender,Shadow Tag,
+Onix,Rock,No gender,Rock Head,Weak Armor
+Drowzee,Psychic,No gender,Insomnia,Inner Focus
+Hypno,Psychic,No gender,Insomnia,Inner Focus
+Krabby,Water,No gender,Hyper Cutter,Sheer Force
+Kingler,Water,No gender,Hyper Cutter,Sheer Force
+Voltorb,Electric,No gender,Soundproof,Aftermath
+Voltorb (Hisuian),Electric,No gender,Soundproof,Aftermath
+Electrode,Electric,No gender,Soundproof,Aftermath
+Electrode (Hisuian),Electric,No gender,Soundproof,Aftermath
+Exeggcute,Grass,No gender,Chlorophyll,Harvest
+Exeggutor,Grass,No gender,Chlorophyll,Harvest
+Exeggutor (Alolan),Grass,No gender,Frisk,Harvest
+Cubone,Ground,No gender,Rock Head,Battle Armor
+Marowak,Ground,No gender,Rock Head,Battle Armor
+Marowak (Alolan),Fire,No gender,Cursed Body,Rock Head
+Hitmonlee,Fighting,No gender,Limber,Unburden
+Hitmonchan,Fighting,No gender,Keen Eye,Inner Focus
+Lickitung,Normal,No gender,Own Tempo,Cloud Nine
+Koffing,Poison,No gender,Levitate,Stench
+Weezing,Poison,No gender,Levitate,Stench
+Weezing (Galarian),Poison,No gender,Levitate,Misty Surge
+Rhyhorn,Ground,No gender,Lightningrod,Reckless
+Rhydon,Ground,No gender,Lightningrod,Reckless
+Chansey,Normal,No gender,Natural Cure,Healer
+Tangela,Grass,No gender,Chlorophyll,Regenerator
+Kangaskhan,Normal,No gender,Early Bird,Inner Focus
+Kangaskhan (Mega),Normal,No gender,Parental Bond,
+Horsea,Water,No gender,Swift Swim,Damp
+Seadra,Water,No gender,Poison Point,Damp
+Goldeen,Water,No gender,Swift Swim,Lightningrod
+Seaking,Water,No gender,Swift Swim,Lightningrod
+Staryu,Water,No gender,Illuminate,Analytic
+Starmie,Water,No gender,Illuminate,Analytic
+Mr. Mime,Psychic,No gender,Soundproof,Technician
+Mr. Mime (Galarian),Ice,No gender,Vital Spirit,Ice Body
+Scyther,Bug,No gender,Swarm,Steadfast
+Jynx,Ice,No gender,Oblivious,Dry Skin
+Electabuzz,Electric,No gender,Static,Vital Spirit
+Magmar,Fire,No gender,Flame Body,Vital Spirit
+Pinsir,Bug,No gender,Hyper Cutter,Moxie
+Pinsir (Mega),Bug,No gender,Aerilate,
+Tauros,Normal,No gender,Intimidate,Sheer Force
+"Tauros (Paldean, Combat)",Fighting,No gender,Intimidate,Cud Chew
+"Tauros (Paldean, Blaze)",Fighting,No gender,Intimidate,Cud Chew
+"Tauros (Paldean, Aqua)",Fighting,No gender,Intimidate,Cud Chew
+Magikarp,Water,No gender,Swift Swim,Rattled
+Gyarados,Water,No gender,Intimidate,Moxie
+Gyarados (Mega),Water,No gender,Mold Breaker,
+Lapras,Water,No gender,Water Absorb,Hydration
+Ditto,Normal,No gender,Limber,Imposter
+Eevee,Normal,No gender,Run Away,Anticipation
+Vaporeon,Water,No gender,Water Absorb,Hydration
+Jolteon,Electric,No gender,Volt Absorb,Quick Feet
+Flareon,Fire,No gender,Flash Fire,Guts
+Porygon,Normal,No gender,Trace,Analytic
+Omanyte,Rock,No gender,Swift Swim,Weak Armor
+Omastar,Rock,No gender,Swift Swim,Weak Armor
+Kabuto,Rock,No gender,Swift Swim,Weak Armor
+Kabutops,Rock,No gender,Swift Swim,Weak Armor
+Aerodactyl,Rock,No gender,Rock Head,Unnerve
+Aerodactyl (Mega),Rock,No gender,Tough Claws,
+Snorlax,Normal,No gender,Immunity,Gluttony
+Articuno,Ice,No gender,Pressure,Snow Cloak
+Articuno (Galarian),Psychic,No gender,Competitive,
+Zapdos,Electric,No gender,Pressure,Static
+Zapdos (Galarian),Fighting,No gender,Defiant,
+Moltres,Fire,No gender,Pressure,Flame Body
+Moltres (Galarian),Dark,No gender,Berserk,
+Dratini,Dragon,No gender,Shed Skin,Marvel Scale
+Dragonair,Dragon,No gender,Shed Skin,Marvel Scale
+Dragonite,Dragon,No gender,Inner Focus,Multiscale
+Mewtwo,Psychic,No gender,Pressure,Unnerve
+Mewtwo (Mega X),Psychic,No gender,Steadfast,
+Mewtwo (Mega Y),Psychic,No gender,Insomnia,
+Mew,Psychic,No gender,Synchronize,
+Chikorita,Grass,No gender,Overgrow,Leaf Guard
+Bayleef,Grass,No gender,Overgrow,Leaf Guard
+Meganium,Grass,No gender,Overgrow,Leaf Guard
+Cyndaquil,Fire,No gender,Blaze,Flash Fire
+Quilava,Fire,No gender,Blaze,Flash Fire
+Typhlosion,Fire,No gender,Blaze,Flash Fire
+Typhlosion (Hisuian),Fire,No gender,Blaze,Frisk
+Totodile,Water,No gender,Torrent,Sheer Force
+Croconaw,Water,No gender,Torrent,Sheer Force
+Feraligatr,Water,No gender,Torrent,Sheer Force
+Sentret,Normal,No gender,Run Away,Frisk
+Furret,Normal,No gender,Run Away,Frisk
+Hoothoot,Normal,No gender,Insomnia,Tinted Lens
+Noctowl,Normal,No gender,Insomnia,Tinted Lens
+Ledyba,Bug,No gender,Swarm,Rattled
+Ledian,Bug,No gender,Swarm,Iron Fist
+Spinarak,Bug,No gender,Swarm,Sniper
+Ariados,Bug,No gender,Swarm,Sniper
+Crobat,Poison,No gender,Inner Focus,Infiltrator
+Chinchou,Water,No gender,Volt Absorb,Water Absorb
+Lanturn,Water,No gender,Volt Absorb,Water Absorb
+Pichu,Electric,No gender,Static,Lightningrod
+Cleffa,Fairy,No gender,Cute Charm,Friend Guard
+Igglybuff,Normal,No gender,Cute Charm,Friend Guard
+Togepi,Fairy,No gender,Hustle,Super Luck
+Togetic,Fairy,No gender,Hustle,Super Luck
+Natu,Psychic,No gender,Synchronize,Magic Bounce
+Xatu,Psychic,No gender,Synchronize,Magic Bounce
+Mareep,Electric,No gender,Static,Plus
+Flaaffy,Electric,No gender,Static,Plus
+Ampharos,Electric,No gender,Static,Plus
+Ampharos (Mega),Electric,No gender,Mold Breaker,
+Bellossom,Grass,No gender,Chlorophyll,Healer
+Marill,Water,No gender,Thick Fat,Sap Sipper
+Azumarill,Water,No gender,Thick Fat,Sap Sipper
+Sudowoodo,Rock,No gender,Sturdy,Rattled
+Politoed,Water,No gender,Water Absorb,Drizzle
+Hoppip,Grass,No gender,Chlorophyll,Infiltrator
+Skiploom,Grass,No gender,Chlorophyll,Infiltrator
+Jumpluff,Grass,No gender,Chlorophyll,Infiltrator
+Aipom,Normal,No gender,Run Away,Skill Link
+Sunkern,Grass,No gender,Chlorophyll,Early Bird
+Sunflora,Grass,No gender,Chlorophyll,Early Bird
+Yanma,Bug,No gender,Speed Boost,Frisk
+Wooper,Water,No gender,Damp,Unaware
+Wooper (Paldean),Poison,No gender,Poison Point,Unaware
+Quagsire,Water,No gender,Damp,Unaware
+Espeon,Psychic,No gender,Synchronize,Magic Bounce
+Umbreon,Dark,No gender,Synchronize,Inner Focus
+Murkrow,Dark,No gender,Insomnia,Prankster
+Slowking,Water,No gender,Oblivious,Regenerator
+Slowking (Galarian),Poison,No gender,Curious Medicine,Regenerator
+Misdreavus,Ghost,No gender,Levitate,
+Unown,Psychic,No gender,Levitate,
+Wobbuffet,Psychic,No gender,Shadow Tag,Telepathy
+Girafarig,Normal,No gender,Inner Focus,Sap Sipper
+Pineco,Bug,No gender,Sturdy,Overcoat
+Forretress,Bug,No gender,Sturdy,Overcoat
+Dunsparce,Normal,No gender,Serene Grace,Rattled
+Gligar,Ground,No gender,Hyper Cutter,Immunity
+Steelix,Steel,No gender,Rock Head,Sheer Force
+Steelix (Mega),Steel,No gender,Sand Force,
+Snubbull,Fairy,No gender,Intimidate,Rattled
+Granbull,Fairy,No gender,Intimidate,Rattled
+Qwilfish,Water,No gender,Poison Point,Intimidate
+Qwilfish (Hisuian),Dark,No gender,Poison Point,Intimidate
+Scizor,Bug,No gender,Swarm,Light Metal
+Scizor (Mega),Bug,No gender,Technician,
+Shuckle,Bug,No gender,Sturdy,Contrary
+Heracross,Bug,No gender,Swarm,Moxie
+Heracross (Mega),Bug,No gender,Skill Link,
+Sneasel,Dark,No gender,Inner Focus,Pickpocket
+Sneasel (Hisuian),Fighting,No gender,Inner Focus,Pickpocket
+Teddiursa,Normal,No gender,Pickup,Honey Gather
+Ursaring,Normal,No gender,Guts,Unnerve
+Slugma,Fire,No gender,Magma Armor,Weak Armor
+Magcargo,Fire,No gender,Magma Armor,Weak Armor
+Swinub,Ice,No gender,Oblivious,Thick Fat
+Piloswine,Ice,No gender,Oblivious,Thick Fat
+Corsola,Water,No gender,Hustle,Regenerator
+Corsola (Galarian),Ghost,No gender,Weak Armor,Cursed Body
+Remoraid,Water,No gender,Hustle,Moody
+Octillery,Water,No gender,Suction Cups,Moody
+Delibird,Ice,No gender,Vital Spirit,Insomnia
+Mantine,Water,No gender,Swift Swim,Water Veil
+Skarmory,Steel,No gender,Keen Eye,Weak Armor
+Houndour,Dark,No gender,Early Bird,Unnerve
+Houndoom,Dark,No gender,Early Bird,Unnerve
+Houndoom (Mega),Dark,No gender,Solar Power,
+Kingdra,Water,No gender,Swift Swim,Damp
+Phanpy,Ground,No gender,Pickup,Sand Veil
+Donphan,Ground,No gender,Sturdy,Sand Veil
+Porygon2,Normal,No gender,Trace,Analytic
+Stantler,Normal,No gender,Intimidate,Sap Sipper
+Smeargle,Normal,No gender,Own Tempo,Moody
+Tyrogue,Fighting,No gender,Guts,Vital Spirit
+Hitmontop,Fighting,No gender,Intimidate,Steadfast
+Smoochum,Ice,No gender,Oblivious,Hydration
+Elekid,Electric,No gender,Static,Vital Spirit
+Magby,Fire,No gender,Flame Body,Vital Spirit
+Miltank,Normal,No gender,Thick Fat,Sap Sipper
+Blissey,Normal,No gender,Natural Cure,Healer
+Raikou,Electric,No gender,Pressure,Inner Focus
+Entei,Fire,No gender,Pressure,Inner Focus
+Suicune,Water,No gender,Pressure,Inner Focus
+Larvitar,Rock,No gender,Guts,Sand Veil
+Pupitar,Rock,No gender,Shed Skin,
+Tyranitar,Rock,No gender,Sand Stream,Unnerve
+Tyranitar (Mega),Rock,No gender,Sand Stream,
+Lugia,Psychic,No gender,Pressure,Multiscale
+Ho-oh,Fire,No gender,Pressure,Regenerator
+Celebi,Psychic,No gender,Natural Cure,
+Treecko,Grass,No gender,Overgrow,Unburden
+Grovyle,Grass,No gender,Overgrow,Unburden
+Sceptile,Grass,No gender,Overgrow,Unburden
+Sceptile (Mega),Grass,No gender,Lightningrod,
+Torchic,Fire,No gender,Blaze,Speed Boost
+Combusken,Fire,No gender,Blaze,Speed Boost
+Blaziken,Fire,No gender,Blaze,Speed Boost
+Blaziken (Mega),Fire,No gender,Speed Boost,
+Mudkip,Water,No gender,Torrent,Damp
+Marshtomp,Water,No gender,Torrent,Damp
+Swampert,Water,No gender,Torrent,Damp
+Swampert (Mega),Water,No gender,Swift Swim,
+Poochyena,Dark,No gender,Run Away,Rattled
+Mightyena,Dark,No gender,Intimidate,Moxie
+Zigzagoon,Normal,No gender,Pickup,Quick Feet
+Zigzagoon (Galarian),Dark,No gender,Pickup,Quick Feet
+Linoone,Normal,No gender,Pickup,Quick Feet
+Linoone (Galarian),Dark,No gender,Pickup,Quick Feet
+Wurmple,Bug,No gender,Shield Dust,Run Away
+Silcoon,Bug,No gender,Shed Skin,
+Beautifly,Bug,No gender,Swarm,Rivalry
+Cascoon,Bug,No gender,Shed Skin,
+Dustox,Bug,No gender,Shield Dust,Compoundeyes
+Lotad,Water,No gender,Swift Swim,Own Tempo
+Lombre,Water,No gender,Swift Swim,Own Tempo
+Ludicolo,Water,No gender,Swift Swim,Own Tempo
+Seedot,Grass,No gender,Chlorophyll,Pickpocket
+Nuzleaf,Grass,No gender,Chlorophyll,Pickpocket
+Shiftry,Grass,No gender,Chlorophyll,Pickpocket
+Taillow,Normal,No gender,Guts,Scrappy
+Swellow,Normal,No gender,Guts,Scrappy
+Wingull,Water,No gender,Keen Eye,Rain Dish
+Pelipper,Water,No gender,Keen Eye,Rain Dish
+Ralts,Psychic,No gender,Synchronize,Telepathy
+Kirlia,Psychic,Male,Synchronize,Telepathy
+Gardevoir,Psychic,No gender,Synchronize,Telepathy
+Gardevoir (Mega),Psychic,No gender,Pixilate,
+Surskit,Bug,No gender,Swift Swim,Rain Dish
+Masquerain,Bug,No gender,Intimidate,Unnerve
+Shroomish,Grass,No gender,Effect Spore,Quick Feet
+Breloom,Grass,No gender,Effect Spore,Technician
+Slakoth,Normal,No gender,Truant,
+Vigoroth,Normal,No gender,Vital Spirit,
+Slaking,Normal,No gender,Truant,
+Nincada,Bug,No gender,Compoundeyes,Run Away
+Ninjask,Bug,No gender,Speed Boost,Infiltrator
+Shedinja,Bug,No gender,Wonder Guard,
+Whismur,Normal,No gender,Soundproof,Rattled
+Loudred,Normal,No gender,Soundproof,Scrappy
+Exploud,Normal,No gender,Soundproof,Scrappy
+Makuhita,Fighting,No gender,Thick Fat,Sheer Force
+Hariyama,Fighting,No gender,Thick Fat,Sheer Force
+Azurill,Normal,No gender,Thick Fat,Sap Sipper
+Nosepass,Rock,No gender,Sturdy,Sand Force
+Skitty,Normal,No gender,Cute Charm,Wonder Skin
+Delcatty,Normal,No gender,Cute Charm,Wonder Skin
+Sableye,Dark,No gender,Keen Eye,Prankster
+Sableye (Mega),Dark,No gender,Magic Bounce,
+Mawile,Steel,No gender,Hyper Cutter,Sheer Force
+Mawile (Mega),Steel,No gender,Huge Power,
+Aron,Steel,No gender,Sturdy,Heavy Metal
+Lairon,Steel,No gender,Sturdy,Heavy Metal
+Aggron,Steel,No gender,Sturdy,Heavy Metal
+Aggron (Mega),Steel,No gender,Filter,
+Meditite,Fighting,No gender,Pure Power,Telepathy
+Medicham,Fighting,No gender,Pure Power,Telepathy
+Medicham (Mega),Fighting,No gender,Pure Power,
+Electrike,Electric,No gender,Static,Minus
+Manectric,Electric,No gender,Static,Minus
+Manetric (Mega),Electric,No gender,Intimidate,
+Plusle,Electric,No gender,Plus,
+Minun,Electric,No gender,Minus,
+Volbeat,Bug,No gender,Illuminate,Prankster
+Illumise,Bug,No gender,Oblivious,Prankster
+Roselia,Grass,No gender,Natural Cure,Leaf Guard
+Gulpin,Poison,No gender,Liquid Ooze,Gluttony
+Swalot,Poison,No gender,Liquid Ooze,Gluttony
+Carvanha,Water,No gender,Rough Skin,Speed Boost
+Sharpedo,Water,No gender,Rough Skin,Speed Boost
+Sharpedo (Mega),Water,No gender,Strong Jaw,
+Wailmer,Water,No gender,Water Veil,Pressure
+Wailord,Water,No gender,Water Veil,Pressure
+Numel,Fire,No gender,Oblivious,Own Tempo
+Camerupt,Fire,No gender,Magma Armor,Anger Point
+Camerupt (Mega),Fire,No gender,Sheer Force,
+Torkoal,Fire,No gender,White Smoke,Shell Armor
+Spoink,Psychic,No gender,Thick Fat,Gluttony
+Grumpig,Psychic,No gender,Thick Fat,Gluttony
+Spinda,Normal,No gender,Own Tempo,Contrary
+Trapinch,Ground,No gender,Hyper Cutter,Sheer Force
+Vibrava,Ground,No gender,Levitate,
+Flygon,Ground,No gender,Levitate,
+Cacnea,Grass,No gender,Sand Veil,Water Absorb
+Cacturne,Grass,No gender,Sand Veil,Water Absorb
+Swablu,Normal,No gender,Natural Cure,Cloud Nine
+Altaria,Dragon,No gender,Natural Cure,Cloud Nine
+Altaria (Mega),Dragon,No gender,Pixilate,
+Zangoose,Normal,No gender,Immunity,Poison Rampage
+Seviper,Poison,No gender,Shed Skin,Infiltrator
+Lunatone,Rock,No gender,Levitate,
+Solrock,Rock,No gender,Levitate,
+Barboach,Water,No gender,Oblivious,Hydration
+Whiscash,Water,No gender,Oblivious,Hydration
+Corphish,Water,No gender,Hyper Cutter,Adaptability
+Crawdaunt,Water,No gender,Hyper Cutter,Adaptability
+Baltoy,Ground,No gender,Levitate,
+Claydol,Ground,No gender,Levitate,
+Lileep,Rock,No gender,Suction Cups,Storm Drain
+Cradily,Rock,No gender,Suction Cups,Storm Drain
+Anorith,Rock,No gender,Battle Armor,Swift Swim
+Armaldo,Rock,No gender,Battle Armor,Swift Swim
+Feebas,Water,No gender,Swift Swim,Adaptability
+Milotic,Water,No gender,Marvel Scale,Cute Charm
+Castform (Normal),Normal,No gender,Forecast,
+Castform (Rainy),Water,No gender,Forecast,
+Castform (Snowy),Ice,No gender,Forecast,
+Castform (Sunny),Fire,No gender,Forecast,
+Kecleon,Normal,No gender,Color Change,
+Shuppet,Ghost,No gender,Insomnia,Cursed Body
+Banette,Ghost,No gender,Insomnia,Cursed Body
+Banette (Mega),Ghost,No gender,Prankster,
+Duskull,Ghost,No gender,Levitate,
+Dusclops,Ghost,No gender,Pressure,
+Tropius,Grass,No gender,Chlorophyll,Harvest
+Chimecho,Psychic,No gender,Levitate,
+Absol,Dark,No gender,Pressure,Justified
+Absol (Mega),Dark,No gender,Magic Bounce,
+Wynaut,Psychic,No gender,Shadow Tag,Telepathy
+Snorunt,Ice,No gender,Inner Focus,Moody
+Glalie,Ice,No gender,Inner Focus,Moody
+Glalie (Mega),Ice,No gender,Refrigerate,
+Spheal,Ice,No gender,Thick Fat,Oblivious
+Sealeo,Ice,No gender,Thick Fat,Oblivious
+Walrein,Ice,No gender,Thick Fat,Oblivious
+Clamperl,Water,No gender,Shell Armor,Rattled
+Huntail,Water,No gender,Swift Swim,Water Veil
+Gorebyss,Water,No gender,Swift Swim,Hydration
+Relicanth,Water,No gender,Swift Swim,Sturdy
+Luvdisc,Water,No gender,Swift Swim,Hydration
+Bagon,Dragon,No gender,Rock Head,Sheer Force
+Shelgon,Dragon,No gender,Rock Head,Overcoat
+Salamence,Dragon,No gender,Intimidate,Moxie
+Salamence (Mega),Dragon,No gender,Aerilate,
+Beldum,Steel,No gender,Clear Body,Light Metal
+Metang,Steel,No gender,Clear Body,Light Metal
+Metagross,Steel,No gender,Clear Body,Light Metal
+Metagross (Mega),Steel,No gender,Tough Claws,
+Regirock,Rock,No gender,Clear Body,Sturdy
+Regice,Ice,No gender,Clear Body,Ice Body
+Registeel,Steel,No gender,Clear Body,Light Metal
+Latias,Dragon,No gender,Levitate,
+Latias,Dragon,No gender,Levitate,
+Latios,Dragon,No gender,Levitate,
+Latios,Dragon,No gender,Levitate,
+Kyogre,Water,No gender,Drizzle,
+Kyogre (Primal),Water,No gender,Primordial Sea,
+Groudon,Ground,No gender,Drought,
+Groudon (Primal),Ground,No gender,Desolate Land,
+Rayquaza,Dragon,No gender,Air Lock,
+Rayquaza,Dragon,No gender,Delta Stream,
+Jirachi,Steel,No gender,Serene Grace,
+Deoxys (Normal),Psychic,No gender,Pressure,
+Deoxys (Attack),Psychic,No gender,Pressure,
+Deoxys (Defense),Psychic,No gender,Pressure,
+Deoxys (Speed),Psychic,No gender,Pressure,
+Turtwig,Grass,No gender,Overgrow,Shell Armor
+Grotle,Grass,No gender,Overgrow,Shell Armor
+Torterra,Grass,No gender,Overgrow,Shell Armor
+Chimchar,Fire,No gender,Blaze,Iron Fist
+Monferno,Fire,No gender,Blaze,Iron Fist
+Infernape,Fire,No gender,Blaze,Iron Fist
+Piplup,Water,No gender,Torrent,Defiant
+Prinplup,Water,No gender,Torrent,Defiant
+Empoleon,Water,No gender,Torrent,Defiant
+Starly,Normal,No gender,Keen Eye,
+Staravia,Normal,No gender,Intimidate,Reckless
+Staraptor,Normal,No gender,Intimidate,Reckless
+Bidoof,Normal,No gender,Simple,Moody
+Bibarel,Normal,No gender,Simple,Moody
+Kricketot,Bug,No gender,Shed Skin,Run Away
+Kricketune,Bug,No gender,Swarm,Technician
+Shinx,Electric,No gender,Rivalry,Guts
+Luxio,Electric,No gender,Rivalry,Guts
+Luxray,Electric,No gender,Rivalry,Guts
+Budew,Grass,No gender,Natural Cure,Leaf Guard
+Roserade,Grass,No gender,Natural Cure,Technician
+Cranidos,Rock,No gender,Mold Breaker,Sheer Force
+Rampardos,Rock,No gender,Mold Breaker,Sheer Force
+Shieldon,Rock,No gender,Sturdy,Soundproof
+Bastiodon,Rock,No gender,Sturdy,Soundproof
+Burmy (Plant),Bug,Female,Shed Skin,Overcoat
+Burmy (Sandy),Bug,Female,Shed Skin,Overcoat
+Burmy (Trash),Bug,Female,Shed Skin,Overcoat
+Wormadam (Plant),Bug,No gender,Anticipation,Overcoat
+Wormadam (Sandy),Bug,No gender,Anticipation,Overcoat
+Wormadam (Trash),Bug,No gender,Anticipation,Overcoat
+Mothim,Bug,No gender,Swarm,Tinted Lens
+Combee,Bug,No gender,Honey Gather,Hustle
+Vespiquen,Bug,No gender,Pressure,Unnerve
+Pachirisu,Electric,No gender,Run Away,Volt Absorb
+Buizel,Water,No gender,Swift Swim,Water Veil
+Floatzel,Water,No gender,Swift Swim,Water Veil
+Cherubi,Grass,No gender,Chlorophyll,
+Cherrim (Overcast),Grass,No gender,Flower Gift,
+Cherrim (Sunshine),Grass,No gender,Flower Gift,
+Shellos (East),Water,No gender,Sticky Hold,Sand Force
+Shellos (West),Water,No gender,Sticky Hold,Sand Force
+Gastrodon (East),Water,No gender,Sticky Hold,Sand Force
+Gastrodon (West),Water,No gender,Sticky Hold,Sand Force
+Ambipom,Normal,No gender,Technician,Skill Link
+Drifloon,Ghost,No gender,Aftermath,Flare Boost
+Drifblim,Ghost,No gender,Aftermath,Flare Boost
+Buneary,Normal,No gender,Run Away,Limber
+Lopunny,Normal,No gender,Cute Charm,Limber
+Lopunny (Mega),Normal,No gender,Scrappy,
+Mismagius,Ghost,No gender,Levitate,
+Honchkrow,Dark,No gender,Insomnia,Moxie
+Glameow,Normal,No gender,Limber,Keen Eye
+Purugly,Normal,No gender,Thick Fat,Defiant
+Chingling,Psychic,No gender,Levitate,
+Stunky,Poison,No gender,Stench,Keen Eye
+Skuntank,Poison,No gender,Stench,Keen Eye
+Bronzor,Steel,No gender,Levitate,Heavy Metal
+Bronzong,Steel,No gender,Levitate,Heavy Metal
+Bonsly,Rock,No gender,Sturdy,Rattled
+Mime Jr.,Psychic,No gender,Soundproof,Technician
+Happiny,Normal,No gender,Natural Cure,Friend Guard
+Chatot,Normal,No gender,Keen Eye,Big Pecks
+Spiritomb,Ghost,No gender,Pressure,Infiltrator
+Gible,Dragon,No gender,Sand Veil,Rough Skin
+Gabite,Dragon,No gender,Sand Veil,Rough Skin
+Garchomp,Dragon,No gender,Sand Veil,Rough Skin
+Garchomp (Mega),Dragon,No gender,Sand Force,
+Munchlax,Normal,No gender,Pickup,Gluttony
+Riolu,Fighting,No gender,Steadfast,Prankster
+Lucario,Fighting,No gender,Steadfast,Justified
+Lucario (Mega),Fighting,No gender,Adaptability,
+Hippopotas,Ground,No gender,Sand Stream,Sand Force
+Hippowdon,Ground,No gender,Sand Stream,Sand Force
+Skorupi,Poison,No gender,Battle Armor,Keen Eye
+Drapion,Poison,No gender,Battle Armor,Keen Eye
+Croagunk,Poison,No gender,Anticipation,Poison Touch
+Toxicroak,Poison,No gender,Anticipation,Poison Touch
+Carnivine,Grass,No gender,Levitate,
+Finneon,Water,No gender,Swift Swim,Water Veil
+Lumineon,Water,No gender,Swift Swim,Water Veil
+Mantyke,Water,No gender,Swift Swim,
+Snover,Grass,No gender,Snow Warning,Soundproof
+Abomasnow,Grass,No gender,Snow Warning,Soundproof
+Abomasnow (Mega),Grass,No gender,Snow Warning,
+Weavile,Dark,No gender,Pressure,Pickpocket
+Magnezone,Electric,No gender,Magnet Pull,Analytic
+Lickilicky,Normal,No gender,Own Tempo,Cloud Nine
+Rhyperior,Ground,No gender,Lightningrod,Reckless
+Tangrowth,Grass,No gender,Chlorophyll,Regenerator
+Electivire,Electric,No gender,Motor Drive,Vital Spirit
+Magmortar,Fire,No gender,Flame Body,Vital Spirit
+Togekiss,Fairy,No gender,Hustle,Super Luck
+Yanmega,Bug,No gender,Speed Boost,Frisk
+Leafeon,Grass,No gender,Leaf Guard,Chlorophyll
+Glaceon,Ice,No gender,Snow Cloak,Ice Body
+Gliscor,Ground,No gender,Hyper Cutter,Poison Heal
+Mamoswine,Ice,No gender,Oblivious,Thick Fat
+Porygon-Z,Normal,No gender,Adaptability,Analytic
+Gallade,Psychic,No gender,Steadfast,Justified
+Gallade (Mega),Psychic,No gender,Inner Focus,
+Probopass,Rock,No gender,Sturdy,Sand Force
+Dusknoir,Ghost,No gender,Pressure,
+Froslass,Ice,No gender,Snow Cloak,Cursed Body
+Rotom,Electric,No gender,Levitate,
+Rotom (Heat),Electric,No gender,Levitate,
+Rotom (Wash),Electric,No gender,Levitate,
+Rotom (Frost),Electric,No gender,Levitate,
+Rotom (Fan),Electric,No gender,Levitate,
+Rotom (Mow),Electric,No gender,Levitate,
+Uxie,Psychic,No gender,Levitate,
+Mesprit,Psychic,No gender,Levitate,
+Azelf,Psychic,No gender,Levitate,
+Dialga (Altered),Steel,No gender,Pressure,Telepathy
+Dialga (Origin),Steel,No gender,Pressure,Telepathy
+Palkia (Altered),Water,No gender,Pressure,Telepathy
+Palkia (Origin),Water,No gender,Pressure,Telepathy
+Heatran,Fire,No gender,Flash Fire,Flame Body
+Regigigas,Normal,No gender,Slow Start,
+Giratina (Altered),Ghost,No gender,Pressure,Telepathy
+Giratina (Origin),Ghost,No gender,Levitate,
+Cresselia,Psychic,No gender,Levitate,
+Phione,Water,No gender,Hydration,
+Manaphy,Water,No gender,Hydration,
+Darkrai,Dark,No gender,Bad Dreams,
+Shaymin (Land),Grass,No gender,Natural Cure,
+Shaymin (Sky),Grass,No gender,Serene Grace,
+Arceus,Normal,No gender,Multitype,
+Victini,Psychic,No gender,Victory Star,
+Snivy,Grass,No gender,Overgrow,Contrary
+Servine,Grass,No gender,Overgrow,Contrary
+Serperior,Grass,No gender,Overgrow,Contrary
+Tepig,Fire,No gender,Blaze,Thick Fat
+Pignite,Fire,No gender,Blaze,Thick Fat
+Emboar,Fire,No gender,Blaze,Reckless
+Oshawott,Water,No gender,Torrent,Shell Armor
+Dewott,Water,No gender,Torrent,Shell Armor
+Samurott,Water,No gender,Torrent,Shell Armor
+Samurott (Hisuian),Water,No gender,Torrent,Sharpness
+Patrat,Normal,No gender,Run Away,Analytic
+Watchog,Normal,No gender,Illuminate,Analytic
+Lillipup,Normal,No gender,Vital Spirit,Run Away
+Herdier,Normal,No gender,Intimidate,Scrappy
+Stoutland,Normal,No gender,Intimidate,Scrappy
+Purrloin,Dark,No gender,Limber,Prankster
+Liepard,Dark,No gender,Limber,Prankster
+Pansage,Grass,No gender,Gluttony,Overgrow
+Simisage,Grass,No gender,Gluttony,Overgrow
+Pansear,Fire,No gender,Gluttony,Blaze
+Simisear,Fire,No gender,Gluttony,Blaze
+Panpour,Water,No gender,Gluttony,Torrent
+Simipour,Water,No gender,Gluttony,Torrent
+Munna,Psychic,No gender,Forewarn,Telepathy
+Musharna,Psychic,No gender,Forewarn,Telepathy
+Pidove,Normal,No gender,Big Pecks,Rivalry
+Tranquill,Normal,No gender,Big Pecks,Rivalry
+Unfezant,Normal,No gender,Big Pecks,Rivalry
+Blitzle,Electric,No gender,Lightningrod,Sap Sipper
+Zebstrika,Electric,No gender,Lightningrod,Sap Sipper
+Roggenrola,Rock,No gender,Sturdy,Sand Force
+Boldore,Rock,No gender,Sturdy,Sand Force
+Gigalith,Rock,No gender,Sturdy,Sand Force
+Woobat,Psychic,No gender,Unaware,Simple
+Swoobat,Psychic,No gender,Unaware,Simple
+Drilbur,Ground,No gender,Sand Rush,Mold Breaker
+Excadrill,Ground,No gender,Sand Rush,Mold Breaker
+Audino,Normal,No gender,Healer,Klutz
+Audino (Mega),Normal,No gender,Healer,
+Timburr,Fighting,No gender,Guts,Iron Fist
+Gurdurr,Fighting,No gender,Guts,Iron Fist
+Conkeldurr,Fighting,No gender,Guts,Iron Fist
+Tympole,Water,No gender,Swift Swim,Water Absorb
+Palpitoad,Water,No gender,Swift Swim,Water Absorb
+Seismitoad,Water,No gender,Swift Swim,Water Absorb
+Throh,Fighting,No gender,Guts,Mold Breaker
+Sawk,Fighting,No gender,Sturdy,Mold Breaker
+Sewaddle,Bug,No gender,Swarm,Overcoat
+Swadloon,Bug,No gender,Leaf Guard,Overcoat
+Leavanny,Bug,No gender,Swarm,Overcoat
+Venipede,Bug,No gender,Poison Point,Quick Feet
+Whirlipede,Bug,No gender,Poison Point,Quick Feet
+Scolipede,Bug,No gender,Poison Point,Quick Feet
+Cottonee,Grass,No gender,Prankster,Chlorophyll
+Whimsicott,Grass,No gender,Prankster,Chlorophyll
+Petilil,Grass,No gender,Chlorophyll,Leaf Guard
+Lilligant,Grass,No gender,Chlorophyll,Leaf Guard
+Lilligant (Hisuian),Grass,No gender,Chlorophyll,Leaf Guard
+Basculin (Red-Striped),Water,No gender,Reckless,Mold Breaker
+Basculin (Blue-STriped),Water,No gender,Rock Head,Mold Breaker
+Basculin (Hisuian),Water,No gender,Rattled,Mold Breaker
+Sandile,Ground,No gender,Intimidate,Anger Point
+Krokorok,Ground,No gender,Intimidate,Anger Point
+Krookodile,Ground,No gender,Intimidate,Anger Point
+Darumaka,Fire,No gender,Hustle,Inner Focus
+Darumaka (Galarian),Ice,No gender,Hustle,Inner Focus
+Darmanitan,Fire,No gender,Sheer Force,Zen Mode
+Darmanitan (Zen Mode),Fire,No gender,,Zen Mode
+Darmanitan (Galarian),Ice,No gender,Gorilla Tactics,Zen Mode
+"Darmanitan (Galarian, Zen Mode)",Ice,No gender,Gorilla Tactics,Zen Mode
+Maractus,Grass,No gender,Water Absorb,Storm Drain
+Dwebble,Bug,No gender,Sturdy,Weak Armor
+Crustle,Bug,No gender,Sturdy,Weak Armor
+Scraggy,Dark,No gender,Shed Skin,Intimidate
+Scrafty,Dark,No gender,Shed Skin,Intimidate
+Sigilyph,Psychic,No gender,Wonder Skin,Tinted Lens
+Yamask,Ghost,No gender,Mummy,
+Yamask (Galarian),Ground,No gender,Wandering Spirit,
+Cofagrigus,Ghost,No gender,Mummy,
+Tirtouga,Water,No gender,Solid Rock,Swift Swim
+Carracosta,Water,No gender,Solid Rock,Swift Swim
+Archen,Rock,No gender,Defeatist,
+Archeops,Rock,No gender,Defeatist,
+Trubbish,Poison,No gender,Stench,Aftermath
+Garbodor,Poison,No gender,Stench,Aftermath
+Zorua,Dark,No gender,Illusion,
+Zorua (Hisuian),Normal,No gender,Illusion,
+Zoroark,Dark,No gender,Illusion,
+Zoroark (Hisuian),Normal,No gender,Illusion,
+Minccino,Normal,No gender,Cute Charm,Skill Link
+Cinccino,Normal,No gender,Cute Charm,Skill Link
+Gothita,Psychic,No gender,Frisk,Shadow Tag
+Gothorita,Psychic,No gender,Frisk,Shadow Tag
+Gothitelle,Psychic,No gender,Frisk,Shadow Tag
+Solosis,Psychic,No gender,Overcoat,Regenerator
+Duosion,Psychic,No gender,Overcoat,Regenerator
+Reuniclus,Psychic,No gender,Overcoat,Regenerator
+Ducklett,Water,No gender,Keen Eye,Hydration
+Swanna,Water,No gender,Keen Eye,Hydration
+Vanillite,Ice,No gender,Ice Body,Weak Armor
+Vanillish,Ice,No gender,Ice Body,Weak Armor
+Vanilluxe,Ice,No gender,Ice Body,Weak Armor
+Deerling (Spring),Normal,No gender,Chlorophyll,Serene Grace
+Deerling (Summer),Normal,No gender,Chlorophyll,Serene Grace
+Deerling (Autumn),Normal,No gender,Chlorophyll,Serene Grace
+Deerling (Winter),Normal,No gender,Chlorophyll,Serene Grace
+Sawsbuck,Normal,No gender,Chlorophyll,Serene Grace
+Emolga,Electric,No gender,Static,Motor Drive
+Karrablast,Bug,No gender,Swarm,No Guard
+Escavalier,Bug,No gender,Swarm,Overcoat
+Foongus,Grass,No gender,Effect Spore,Regenerator
+Amoonguss,Grass,No gender,Effect Spore,Regenerator
+Frillish,Water,No gender,Water Absorb,
+Jellicent,Water,No gender,Water Absorb,Damp
+Alomomola,Water,No gender,Healer,Regenerator
+Joltik,Bug,No gender,Compoundeyes,Swarm
+Galvantula,Bug,No gender,Compoundeyes,Swarm
+Ferroseed,Grass,No gender,Iron Barbs,
+Ferrothorn,Grass,No gender,Iron Barbs,
+Klink,Steel,No gender,Plus,Clear Body
+Klang,Steel,No gender,Plus,Clear Body
+Klinklang,Steel,No gender,Plus,Clear Body
+Tynamo,Electric,No gender,Levitate,
+Eelektrik,Electric,No gender,Levitate,
+Eelektross,Electric,No gender,Levitate,
+Elgyem,Psychic,No gender,Telepathy,Analytic
+Beheeyem,Psychic,No gender,Telepathy,Analytic
+Litwick,Ghost,No gender,Flash Fire,Shadow Tag
+Lampent,Ghost,No gender,Flash Fire,Shadow Tag
+Chandelure,Ghost,No gender,Flash Fire,Shadow Tag
+Axew,Dragon,No gender,Rivalry,Unnerve
+Fraxure,Dragon,No gender,Rivalry,Unnerve
+Haxorus,Dragon,No gender,Rivalry,Unnerve
+Cubchoo,Ice,No gender,Snow Cloak,Rattled
+Beartic,Ice,No gender,Snow Cloak,Swift Swim
+Cryogonal,Ice,No gender,Levitate,
+Shelmet,Bug,No gender,Hydration,Overcoat
+Accelgor,Bug,No gender,Hydration,Unburden
+Stunfisk,Ground,No gender,Static,Sand Veil
+Stunfisk (Galarian),Ground,No gender,Mimicry,
+Mienfoo,Fighting,No gender,Inner Focus,Reckless
+Mienshao,Fighting,No gender,Inner Focus,Reckless
+Druddigon,Dragon,No gender,Rough Skin,Mold Breaker
+Golett,Ground,No gender,Iron Fist,No Guard
+Golurk,Ground,No gender,Iron Fist,No Guard
+Pawniard,Dark,No gender,Defiant,Pressure
+Bisharp,Dark,No gender,Defiant,Pressure
+Bouffalant,Normal,No gender,Reckless,Soundproof
+Rufflet,Normal,No gender,Keen Eye,Hustle
+Braviary,Normal,No gender,Keen Eye,Defiant
+Braviary (Hisuian),Psychic,No gender,Keen Eye,Tinted Lens
+Vullaby,Dark,No gender,Big Pecks,Weak Armor
+Mandibuzz,Dark,No gender,Big Pecks,Weak Armor
+Heatmor,Fire,No gender,Gluttony,White Smoke
+Durant,Bug,No gender,Swarm,Truant
+Deino,Dark,No gender,Hustle,
+Zweilous,Dark,No gender,Hustle,
+Hydreigon,Dark,No gender,Levitate,
+Larvesta,Bug,No gender,Flame Body,Swarm
+Volcarona,Bug,No gender,Flame Body,Swarm
+Cobalion,Steel,No gender,Justified,
+Terrakion,Rock,No gender,Justified,
+Virizion,Grass,No gender,Justified,
+Tornadus (Incarnate),Flying,No gender,Prankster,Defiant
+Tornadus (Therian),Flying,No gender,Regenerator,
+Thundurus (Incarnate),Electric,No gender,Prankster,Defiant
+Thundurus (Therian),Electric,No gender,Volt Absorb,
+Reshiram,Dragon,No gender,Turboblaze,
+Zekrom,Dragon,No gender,Teravolt,
+Landorus (Incarnate),Ground,No gender,Sand Force,Sheer Force
+Landorus (Therian),Ground,No gender,Intimidate,
+Kyurem,Dragon,No gender,Pressure,
+Kyurem (Black),Dragon,No gender,Teravolt,
+Kyurem (White),Dragon,No gender,Turboblaze,
+Keldeo,Water,No gender,Justified,
+Meloetta (Aria),Normal,No gender,Serene Grace,
+Meloetta (Pirouette),Normal,No gender,Serene Grace,
+Genesect,Bug,No gender,Download,
+Chespin,Grass,No gender,Overgrow,Bulletproof
+Quilladin,Grass,No gender,Overgrow,Bulletproof
+Chesnaught,Grass,No gender,Overgrow,Bulletproof
+Fennekin,Fire,No gender,Blaze,Magician
+Braixen,Fire,No gender,Blaze,Magician
+Delphox,Fire,No gender,Blaze,Magician
+Froakie,Water,No gender,Torrent,Protean
+Frogadier,Water,No gender,Torrent,Protean
+Greninja,Water,No gender,Torrent,Protean
+Ash-Greninja,Water,No gender,Battle Bond,
+Bunnelby,Normal,No gender,Pickup,Huge Power
+Diggersby,Normal,No gender,Pickup,Huge Power
+Fletchling,Normal,No gender,Big Pecks,Gale Wings
+Fletchinder,Fire,No gender,Flame Body,Gale Wings
+Talonflame,Fire,No gender,Flame Body,Gale Wings
+Scatterbug,Bug,No gender,Shield Dust,Friend Guard
+Spewpa,Bug,No gender,Shed Skin,Friend Guard
+Vivillon (Meadow/Fancy),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Polar/Tundra/Marine),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Continental),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Garden/Savanna/Jungle),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Elegant),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Icy Snow),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Mod/Sun/Ocean/Poke Ball),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (HiPl/SS/Arch/Riv),Bug,No gender,Shield Dust,Friend Guard
+Vivillon (Monsoon),Bug,No gender,Shield Dust,Friend Guard
+Litleo,Fire,No gender,Rivalry,Moxie
+Pyroar,Fire,No gender,Rivalry,Moxie
+Flabébé,Fairy,No gender,Flower Veil,Symbiosis
+Floette,Fairy,No gender,Flower Veil,Symbiosis
+Florges,Fairy,No gender,Flower Veil,Symbiosis
+Skiddo,Grass,No gender,Sap Sipper,Grass Pelt
+Gogoat,Grass,No gender,Sap Sipper,Grass Pelt
+Pancham,Fighting,No gender,Iron Fist,Scrappy
+Pangoro,Fighting,No gender,Iron Fist,Scrappy
+Furfrou,Normal,No gender,Fur Coat,
+Espurr,Psychic,No gender,Keen Eye,Own Tempo
+Meowstic (Female),Psychic,Female,Keen Eye,Competitive
+Meowstic (Male),Psychic,Male,Keen Eye,Prankster
+Honedge,Steel,No gender,No Guard,
+Doublade,Steel,No gender,No Guard,
+Aegislash (Shield),Steel,No gender,Stance Change,
+Aegislash (Blade),Steel,No gender,Stance Change,
+Spritzee,Fairy,No gender,Healer,Aroma Veil
+Aromatisse,Fairy,No gender,Healer,Aroma Veil
+Swirlix,Fairy,No gender,Sweet Veil,Unburden
+Slurpuff,Fairy,No gender,Sweet Veil,Unburden
+Inkay,Dark,No gender,Suction Cups,Infiltrator
+Malamar,Dark,No gender,Suction Cups,Infiltrator
+Binacle,Rock,No gender,Sniper,Pickpocket
+Barbaracle,Rock,No gender,Sniper,Pickpocket
+Skrelp,Poison,No gender,Poison Point,Adaptability
+Dragalge,Poison,No gender,Poison Point,Adaptability
+Clauncher,Water,No gender,Mega Launcher,
+Clawitzer,Water,No gender,Mega Launcher,
+Helioptile,Electric,No gender,Dry Skin,Solar Power
+Heliolisk,Electric,No gender,Dry Skin,Solar Power
+Tyrunt,Rock,No gender,Strong Jaw,Sturdy
+Tyrantrum,Rock,No gender,Strong Jaw,Rock Head
+Amaura,Rock,No gender,Refrigerate,Snow Warning
+Aurorus,Rock,No gender,Refrigerate,Snow Warning
+Sylveon,Fairy,No gender,Cute Charm,Pixilate
+Hawlucha,Fighting,No gender,Unburden,Mold Breaker
+Dedenne,Electric,No gender,Cheek Pouch,Plus
+Carbink,Rock,No gender,Clear Body,Sturdy
+Goomy,Dragon,No gender,Sap Sipper,Gooey
+Sliggoo,Dragon,No gender,Sap Sipper,Gooey
+Sliggoo (Hisuian),Steel,No gender,Sap Sipper,Gooey
+Goodra,Dragon,No gender,Sap Sipper,Gooey
+Goodra (Hisuian),Steel,No gender,Sap Sipper,Gooey
+Klefki,Steel,No gender,Prankster,Magician
+Phantump,Ghost,No gender,Natural Cure,Harvest
+Trevenant,Ghost,No gender,Natural Cure,Harvest
+Pumpkaboo (Small),Ghost,No gender,Pickup,Insomnia
+Pumpkaboo (Average),Ghost,No gender,Pickup,Insomnia
+Pumpkaboo (Large),Ghost,No gender,Pickup,Insomnia
+Pumpkaboo (Super Size),Ghost,No gender,Pickup,Insomnia
+Gourgeist (Small),Ghost,No gender,Pickup,Insomnia
+Gourgeist (Average),Ghost,No gender,Pickup,Insomnia
+Gourgeist (Large),Ghost,No gender,Pickup,Insomnia
+Gourgeist (Super Size),Ghost,No gender,Pickup,Insomnia
+Bergmite,Ice,No gender,Own Tempo,Sturdy
+Avalugg,Ice,No gender,Own Tempo,Sturdy
+Avalugg (Hisuian),Ice,No gender,Strong Jaw,Sturdy
+Noibat,Flying,No gender,Frisk,Telepathy
+Noivern,Flying,No gender,Frisk,Telepathy
+Xerneas,Fairy,No gender,Fairy Aura,
+Yveltal,Dark,No gender,Dark Aura,
+Zygarde (10%),Dragon,No gender,Aura Break,
+Zygarde (50%),Dragon,No gender,Aura Break,
+Zygarde (Complete),Dragon,No gender,Power Construct,
+Diancie,Rock,No gender,Clear Body,
+Diancie (Mega),Rock,No gender,Magic Bounce,
+Hoopa (Confined),Psychic,No gender,Magician,
+Hoopa (Unbound),Psychic,No gender,Magician,
+Volcanion,Fire,No gender,Water Absorb,
+Rowlet,Grass,No gender,Overgrow ,Long Reach
+Dartrix,Grass,No gender,Overgrow ,Long Reach
+Decidueye,Grass,No gender,Overgrow ,Long Reach
+Decidueye (Hisuian),Grass,No gender,Overgrow,Scrappy
+Litten,Fire,No gender,Blaze,Intimidate
+Torracat,Fire,No gender,Blaze,Intimidate
+Incineroar,Fire,No gender,Blaze,Intimidate
+Popplio,Water,No gender,Torrent,Liquid Voice
+Brionne,Water,No gender,Torrent,Liquid Voice
+Primarina,Water,No gender,Torrent,Liquid Voice
+Pikipek,Normal,No gender,Keen Eye,Pickup
+Trumbeak,Normal,No gender,Keen Eye,Pickup
+Toucannon,Normal,No gender,Keen Eye,Sheer Force
+Yungoos,Normal,No gender,Stakeout,Adaptability
+Gumshoos,Normal,No gender,Stakeout,Adaptability
+Grubbin,Bug,No gender,Swarm,
+Charjabug,Bug,No gender,Battery,
+Vikavolt,Bug,No gender,Levitate,
+Crabrawler,Fighting,No gender,Hyper Cutter ,Anger Point
+Crabominable,Fighting,No gender,Hyper Cutter ,Anger Point
+Oricorio (Baile),Fire,No gender,Dancer,
+Oricorio (Pa'u),Psychic,No gender,Dancer,
+Oricorio (Pom-Pom),Electric,No gender,Dancer,
+Oricorio (Sensu),Ghost,No gender,Dancer,
+Cutiefly,Bug,No gender,Honey Gather ,Sweet Veil
+Ribombee,Bug,No gender,Honey Gather ,Sweet Veil
+Rockruff,Rock,No gender,Keen Eye ,Steadfast
+Rockruff (Own Tempo),Rock,No gender,Keen Eye ,Own Tempo
+Lycanroc (Midday),Rock,No gender,Keen Eye ,Steadfast
+Lycanroc (Midnight),Rock,No gender,Keen Eye ,No Guard
+Lycanroc (Dusk),Rock,No gender,Tough Claws,
+Wishiwashi (Solo),Water,No gender,Schooling,
+Wishiwashi (School),Water,No gender,Schooling,
+Mareanie,Poison,No gender,Merciless ,Regenerator
+Toxapex,Poison,No gender,Merciless ,Regenerator
+Mudbray,Ground,No gender,Own Tempo,Inner Focus
+Mudsdale,Ground,No gender,Own Tempo,Inner Focus
+Dewpider,Water,No gender,Water Bubble ,Water Absorb
+Araquanid,Water,No gender,Water Bubble ,Water Absorb
+Fomantis,Grass,No gender,Leaf Guard ,Contrary
+Lurantis,Grass,No gender,Leaf Guard ,Contrary
+Morelull,Grass,No gender,Illuminate ,Rain Dish
+Shiinotic,Grass,No gender,Illuminate ,Rain Dish
+Salandit,Poison,Female,Corrosion ,Oblivious
+Salazzle,Poison,No gender,Corrosion ,Oblivious
+Stufful,Normal,No gender,Fluffy ,Cute Charm
+Bewear,Normal,No gender,Fluffy ,Unnerve
+Bounsweet,Grass,No gender,Leaf Guard ,Sweet Veil
+Steenee,Grass,No gender,Leaf Guard ,Sweet Veil
+Tsareena,Grass,No gender,Leaf Guard ,Sweet Veil
+Comfey,Fairy,No gender,Flower Veil ,Natural Cure
+Oranguru,Normal,No gender,Inner Focus ,Symbiosis
+Passimian,Fighting,No gender,Receiver ,Defiant
+Wimpod,Bug,No gender,Wimp Out,
+Golisopod,Bug,No gender,Emergency Exit,
+Sandygast,Ghost,No gender,Water Compaction ,Sand Veil
+Palossand,Ghost,No gender,Water Compaction ,Sand Veil
+Pyukumuku,Water,No gender,Innards Out,Unaware
+Type: Null,Normal,No gender,Battle Armor,
+Silvally,Normal,No gender,RKS System,
+Minior (Meteor),Rock,No gender,Shields Down,
+Minior (Red Core),Rock,No gender,Shields Down,
+Minior (Orange Core),Rock,No gender,Shields Down,
+Minior (Yellow Core),Rock,No gender,Shields Down,
+Minior (Green Core),Rock,No gender,Shields Down,
+Minior (Blue Core),Rock,No gender,Shields Down,
+Minior (Indigo Core),Rock,No gender,Shields Down,
+Minior (Violet Core),Rock,No gender,Shields Down,
+Komala,Normal,No gender,Comatose,
+Turtonator,Fire,No gender,Shell Armor,
+Togedemaru,Electric,No gender,Iron Barbs ,Sturdy
+Mimikyu,Ghost,No gender,Disguise,
+Bruxish,Water,No gender,Dazzling ,Wonder Skin
+Drampa,Normal,No gender,Berserk ,Cloud Nine
+Dhelmise,Ghost,No gender,Steelworker,
+Jangmo-o,Dragon,No gender,Bulletproof ,Overcoat
+Hakamo-o,Dragon,No gender,Bulletproof ,Overcoat
+Kommo-o,Dragon,No gender,Bulletproof ,Overcoat
+Tapu Koko,Electric,No gender,Electric Surge ,
+Tapu Lele,Psychic,No gender,Psychic Surge ,
+Tapu Bulu,Grass,No gender,Grassy Surge ,
+Tapu Fini,Water,No gender,Misty Surge ,
+Cosmog,Psychic,No gender,Unaware,
+Cosmoem,Psychic,No gender,Sturdy,
+Solgaleo,Psychic,No gender,Full Metal Body,
+Lunala,Psychic,No gender,Shadow Shield,
+Nihilego,Rock,No gender,Beast Boost,
+Buzzwole,Bug,No gender,Beast Boost,
+Pheromosa,Bug,No gender,Beast Boost,
+Xurkitree,Electric,No gender,Beast Boost,
+Celesteela,Steel,No gender,Beast Boost,
+Kartana,Grass,No gender,Beast Boost,
+Guzzlord,Dark,No gender,Beast Boost,
+Necrozma,Psychic,No gender,Prism Armor,
+Necrozma (Dusk Mane),Psychic,No gender,Prism Armor,
+Necrozma (Dawn Wings),Psychic,No gender,Prism Armor,
+Necrozma (Ultra),Psychic,No gender,Neuroforce,
+Magearna,Steel,No gender,Soul-Heart,
+Magearna (Original Color),Steel,No gender,Soul-Heart,
+Marshadow,Fighting,No gender,Technician,
+Poipole,Poison,No gender,Beast Boost,
+Naganadel,Poison,No gender,Beast Boost,
+Stakataka,Rock,No gender,Beast Boost,
+Blacephalon,Fire,No gender,Beast Boost,
+Zeraora,Electric,No gender,Volt Absorb,
+Meltan,Steel,No gender,Magnet Pull,
+Melmetal,Steel,No gender,Iron Fist,
+Grookey,Grass,No gender,Overgrow,Grassy Surge
+Thwackey,Grass,No gender,Overgrow,Grassy Surge
+Rillaboom,Grass,No gender,Overgrow,Grassy Surge
+Scorbunny,Fire,No gender,Blaze,Libero
+Raboot,Fire,No gender,Blaze,Libero
+Cinderace,Fire,No gender,Blaze,Libero
+Sobble,Water,No gender,Torrent,Sniper
+Drizzile,Water,No gender,Torrent,Sniper
+Inteleon,Water,No gender,Torrent,Sniper
+Skwovet,Normal,No gender,Cheek Pouch,Gluttony
+Greedent,Normal,No gender,Cheek Pouch,Gluttony
+Rookidee,Flying,No gender,Keen Eye,Big Pecks
+Corvisquire,Flying,No gender,Keen Eye,Big Pecks
+Corviknight,Flying,No gender,Pressure,Mirror Armor
+Blipbug,Bug,No gender,Swarm,Telepathy
+Dottler,Bug,No gender,Swarm,Telepathy
+Orbeetle,Bug,No gender,Swarm,Telepathy
+Nickit,Dark,No gender,Run Away,Stakeout
+Thievul,Dark,No gender,Run Away,Stakeout
+Gossifleur,Grass,No gender,Cotton Down,Effect Spore
+Eldegoss,Grass,No gender,Cotton Down,Effect Spore
+Wooloo,Normal,No gender,Fluffy ,Bulletproof
+Dubwool,Normal,No gender,Fluffy ,Bulletproof
+Chewtle,Water,No gender,Strong Jaw,Swift Swim
+Drednaw,Water,No gender,Strong Jaw,Swift Swim
+Yamper,Electric,No gender,Ball Fetch,Rattled
+Boltund,Electric,No gender,Strong Jaw,Competitive
+Rolycoly,Rock,No gender,Steam Engine,Flash Fire
+Carkol,Rock,No gender,Steam Engine,Flash Fire
+Coalossal,Rock,No gender,Steam Engine,Flash Fire
+Applin,Grass,No gender,Ripen,Bulletproof
+Flapple,Grass,No gender,Ripen,Hustle
+Appletun,Grass,No gender,Ripen,Thick Fat
+Silicobra,Ground,No gender,Sand Spit,Sand Veil
+Sandaconda,Ground,No gender,Sand Spit,Sand Veil
+Cramorant,Flying,No gender,Gulp Missile,
+Arrokuda,Water,No gender,Swift Swim,Propeller Tail
+Barraskewda,Water,No gender,Swift Swim,Propeller Tail
+Toxel,Electric,No gender,Rattled,Klutz
+Toxtricity (Amped),Electric,No gender,Punk Rock,Technician
+Toxtricity (Low Key),Electric,No gender,Punk Rock,Technician
+Sizzlipede,Fire,No gender,Flash Fire,Flame Body
+Centiskorch,Fire,No gender,Flash Fire,Flame Body
+Clobbopus,Fighting,No gender,Limber,Technician
+Grapploct,Fighting,No gender,Limber,Technician
+Sinistea,Ghost,No gender,Weak Armor,Cursed Body
+Polteageist,Ghost,No gender,Weak Armor,Cursed Body
+Hatenna,Psychic,No gender,Healer,Magic Bounce
+Hattrem,Psychic,No gender,Healer,Magic Bounce
+Hatterene,Psychic,No gender,Healer,Magic Bounce
+Impidimp,Dark,No gender,Prankster,Pickpocket
+Morgrem,Dark,No gender,Prankster,Pickpocket
+Grimmsnarl,Dark,No gender,Prankster,Pickpocket
+Obstagoon,Dark,No gender,Reckless,Defiant
+Perrserker,Steel,No gender,Battle Armor,Steely Spirit
+Cursola,Ghost,No gender,Weak Armor,Perish Body
+Sirfetch'd,Fighting,No gender,Steadfast,Scrappy
+Mr. Rime,Ice,No gender,Tangled Feet,Ice Body
+Runerigus,Ground,No gender,Wandering Spirit,
+Milcery,Fairy,No gender,Sweet Veil,Aroma Veil
+Alcremie (VaCr/SaCr),Fairy,No gender,Sweet Veil,Aroma Veil
+Alcremie (RuCr),Fairy,No gender,Sweet Veil,Aroma Veil
+Alcremie (MaCr),Fairy,No gender,Sweet Veil,Aroma Veil
+Alcremie (MiCr),Fairy,No gender,Sweet Veil,Aroma Veil
+Alcremie (LeCr/RuSw/RaSw),Fairy,No gender,Sweet Veil,Aroma Veil
+Alcremie (CaSw),Fairy,No gender,Sweet Veil,Aroma Veil
+Falinks,Fighting,No gender,Battle Armor,Defiant
+Pincurchin,Electric,No gender,Lightningrod,Electric Surge
+Snom,Ice,No gender,Shield Dust,Ice Scales
+Frosmoth,Ice,No gender,Shield Dust,Ice Scales
+Stonjourner,Rock,No gender,Power Spot,
+Eiscue (Ice Face),Ice,No gender,Ice Face,
+Eiscue (No Ice Face),Ice,No gender,Ice Face,
+Indeedee (Male),Psychic,Male,Inner Focus,Psychic Surge
+Indeedee (Female),Psychic,Female,Own Tempo,Psychic Surge
+Morpeko (Full Belly),Electric,No gender,Hunger Switch,
+Morpeko (Hangry),Electric,No gender,Hunger Switch,
+Cufant,Steel,No gender,Sheer Force,Heavy Metal
+Copperajah,Steel,No gender,Sheer Force,Heavy Metal
+Dracozolt,Electric,No gender,Volt Absorb,Sand Rush
+Arctozolt,Electric,No gender,Volt Absorb,Slush Rush
+Dracovish,Water,No gender,Water Absorb,Sand Rush
+Arctovish,Water,No gender,Water Absorb,Slush Rush
+Duraludon,Steel,No gender,Light Metal,Stalwart
+Dreepy,Dragon,No gender,Clear Body,Cursed Body
+Drakloak,Dragon,No gender,Clear Body,Cursed Body
+Dragapult,Dragon,No gender,Clear Body,Cursed Body
+Zacian (Hero),Fairy,No gender,Intrepid Sword,
+Zacian (Crowned),Fairy,No gender,Intrepid Sword,
+Zamazenta (Hero),Fighting,No gender,Dauntless Shield,
+Zamazenta (Crowned),Fighting,No gender,Dauntless Shield,
+Eternatus,Poison,No gender,Pressure,
+Kubfu,Fighting,No gender,Inner Focus,
+Urshifu (Single Strike),Fighting,No gender,Unseen Fist,
+Urshifu (Rapid Strike),Fighting,No gender,Unseen Fist,
+Zarude,Dark,No gender,Leaf Guard ,
+Regieleki,Electric,No gender,Transistor,
+Regidrago,Dragon,No gender,Dragon's Maw,
+Glastrier,Ice,No gender,Chilling Neigh,
+Spectrier,Ghost,No gender,Grim Neigh,
+Calyrex,Psychic,No gender,Unnerve,
+Calyrex (Ice Rider),Psychic,No gender,As One,
+Calyrex (Shadow Rider),Psychic,No gender,As One,
+Wyrdeer,Normal,No gender,Intimidate,Sap Sipper
+Kleavor,Bug,No gender,Swarm,Sharpness
+Ursaluna,Ground,No gender,Guts,Unnerve
+Basculegion (Male),Water,Male,Swift Swim,Mold Breaker
+Basculegion (Female),Water,Female,Swift Swim,Mold Breaker
+Sneasler,Fighting,No gender,Pressure,Poison Touch
+Overqwil,Dark,No gender,Poison Point,Intimidate
+Enamorus (Incarnate),Fairy,No gender,Healer,Contrary
+Enamorus (Therian),Fairy,No gender,Overcoat,
+Sprigatito,Grass,No gender,Overgrow,Protean
+Floragato,Grass,No gender,Overgrow,Protean
+Meowscarada,Grass,No gender,Overgrow,Protean
+Fuecoco,Fire,No gender,Blaze,Unaware
+Crocalor,Fire,No gender,Blaze,Unaware
+Skeledirge,Fire,No gender,Blaze,Unaware
+Quaxly,Water,No gender,Torrent,Moxie
+Quaxwell,Water,No gender,Torrent,Moxie
+Quaquaval,Water,No gender,Torrent,Moxie
+Lechonk,Normal,No gender,Aroma Veil,Thick Fat
+Oinkologne (Male),Normal,Male,Lingering Aroma,Thick Fat
+Oinkologne (Female),Normal,Female,Aroma Veil,Thick Fat
+Tarountula,Bug,No gender,Insomnia,Stakeout
+Spidops,Bug,No gender,Insomnia,Stakeout
+Nymble,Bug,No gender,Swarm,Tinted Lens
+Lokix,Bug,No gender,Swarm,Tinted Lens
+Pawmi,Electric,No gender,Static,Iron Fist
+Pawmo,Electric,No gender,Volt Absorb,Iron Fist
+Pawmot,Electric,No gender,Volt Absorb,Iron Fist
+Tandemaus,Normal,No gender,Run Away,Own Tempo
+Maushold (Family of 4),Normal,No gender,Friend Guard,Technician
+Maushold (Family of 3),Normal,No gender,Friend Guard,Technician
+Fidough,Fairy,No gender,Own Tempo,Klutz
+Dachsbun,Fairy,No gender,Well- Baked Body,Aroma Veil
+Smoliv,Grass,No gender,Early Bird,Harvest
+Dolliv,Grass,No gender,Early Bird,Harvest
+Arboliva,Grass,No gender,Seed Sower,Harvest
+Squawkabilly (Green),Normal,No gender,Intimidate,Guts
+Squawkabilly (Blue),Normal,No gender,Intimidate,Guts
+Squawkabilly (Yellow),Normal,No gender,Intimidate,Sheer Force
+Squawkabilly (White),Normal,No gender,Intimidate,Sheer Force
+Nacli,Rock,No gender,Purifying Salt,Clear Body
+Naclstack,Rock,No gender,Purifying Salt,Clear Body
+Garganacl,Rock,No gender,Purifying Salt,Clear Body
+Charcadet,Fire,No gender,Flash Fire,Flame Body
+Armarouge,Fire,No gender,Flash Fire,Weak Armor
+Ceruledge,Fire,No gender,Flash Fire,Weak Armor
+Tadbulb,Electric,No gender,Own Tempo,Damp
+Bellibolt,Electric,No gender,Electromorphosis,Damp
+Wattrel,Electric,No gender,Wind Power,Competitive
+Kilowattrel,Electric,No gender,Wind Power,Competitive
+Maschiff,Dark,No gender,Intimidate,Stakeout
+Mabosstiff,Dark,No gender,Intimidate,Stakeout
+Shroodle,Poison,No gender,Unburden,Prankster
+Grafaiai,Poison,No gender,Unburden,Prankster
+Bramblin,Grass,No gender,Wind Rider,Infiltrator
+Brambleghast,Grass,No gender,Wind Rider,Infiltrator
+Toedscool,Ground,No gender,Mycelium Might,
+Toedscruel,Ground,No gender,Mycelium Might,
+Klawf,Rock,No gender,Anger Shell,Regenerator
+Capsakid,Grass,No gender,Chlorophyll,Klutz
+Scovillain,Grass,No gender,Chlorophyll,Moody
+Rellor,Bug,No gender,Compoundeyes,Shed Skin
+Rabsca,Bug,No gender,Synchronize,Telepathy
+Flittle,Psychic,No gender,Anticipation,Speed Boost
+Espathra,Psychic,No gender,Opportunist,Speed Boost
+Tinkatink,Fairy,No gender,Mold Breaker,Pickpocket
+Tinkatuff,Fairy,No gender,Mold Breaker,Pickpocket
+Tinkaton,Fairy,No gender,Mold Breaker,Pickpocket
+Wiglett,Water,No gender,Gooey,Sand Veil
+Wugtrio,Water,No gender,Gooey,Sand Veil
+Bombirdier,Flying,No gender,Big Pecks,Rocky Payload
+Finizen,Water,No gender,Water Veil,
+Palafin (Zero),Water,No gender,Zero to Hero,
+Palafin (Hero),Water,No gender,Zero to Hero,
+Varoom,Steel,No gender,Overcoat,Slow Start
+Revavroom,Steel,No gender,Overcoat,Filter
+Cyclizar,Dragon,No gender,Shed Skin,Regenerator
+Orthworm,Steel,No gender,Earth Eater,Sand Veil
+Glimmet,Rock,No gender,Toxic Debris,Corrosion
+Glimmora,Rock,No gender,Toxic Debris,Corrosion
+Greavard,Ghost,No gender,Pickup,Fluffy
+Houndstone,Ghost,No gender,Sand Rush,Fluffy
+Flamigo,Flying,No gender,Scrappy,Costar
+Cetoddle,Ice,No gender,Thick Fat,Sheer Force
+Cetitan,Ice,No gender,Thick Fat,Sheer Force
+Veluza,Water,No gender,Mold Breaker,Sharpness
+Dondozo,Water,No gender,Unaware,Water Veil
+Tatsugiri (Curly),Dragon,No gender,Commander,Storm Drain
+Tatsugiri (Droopy),Dragon,No gender,Commander,Storm Drain
+Tatsugiri (Stretchy),Dragon,No gender,Commander,Storm Drain
+Annihilape,Fighting,No gender,Vital Spirit,Defiant
+Clodsire,Poison,No gender,Poison Point,Unaware
+Farigiraf,Normal,No gender,Cud Chew,Sap Sipper
+Dudunsparce (Two-Segment),Normal,No gender,Serene Grace,Rattled
+Dudunsparce (Three Segment),Normal,No gender,Serene Grace,Rattled
+Kingambit,Dark,No gender,Defiant,Pressure
+Great Tusk,Ground,No gender,Protosynthesis,
+Scream Tail,Fairy,No gender,Protosynthesis,
+Brute Bonnet,Grass,No gender,Protosynthesis,
+Flutter Mane,Ghost,No gender,Protosynthesis,
+Slither Wing,Bug,No gender,Protosynthesis,
+Sandy Shocks,Electric,No gender,Protosynthesis,
+Iron Treads,Ground,No gender,Quark Drive,
+Iron Bundle,Ice,No gender,Quark Drive,
+Iron Hands,Fighting,No gender,Quark Drive,
+Iron Jugulis,Dark,No gender,Quark Drive,
+Iron Moth,Fire,No gender,Quark Drive,
+Iron Thorns,Rock,No gender,Quark Drive,
+Frigibax,Dragon,No gender,Thermal Exchange,Ice Body
+Arctibax,Dragon,No gender,Thermal Exchange,Ice Body
+Baxcalibur,Dragon,No gender,Thermal Exchange,Ice Body
+Gimmighoul (Chest),Ghost,No gender,Rattled,
+Gimmighoul (Roaming),Ghost,No gender,Run Away,
+Gholdengo,Steel,No gender,Good as Gold,
+Wo-Chien,Dark,No gender,Tablets of Ruin,
+Chien-Pao,Dark,No gender,Sword of Ruin,
+Ting-Lu,Dark,No gender,Vessel of Ruin,
+Chi-Yu,Dark,No gender,Beads of Ruin,
+Roaring Moon,Dragon,No gender,Protosynthesis,
+Iron Valiant,Fairy,No gender,Quark Drive,
+Koraidon,Fighting,No gender,Orichalcum Pulse,
+Miraidon,Electric,No gender,Hadron Engine,
